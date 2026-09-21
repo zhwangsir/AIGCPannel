@@ -50,3 +50,4 @@ platform/output/
 tts-samples/
 dashbox/works/
 platform/reports/
+.smoke/
